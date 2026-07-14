@@ -45,6 +45,8 @@ Git | GitHub | Power BI | Google Sheets API | Vite | React
 🔹 **Pipeline de Dados com API Financeira**
 Projeto focado em ingestão, tratamento e modelagem de dados financeiros utilizando arquitetura escalável.
 
+🔹 **Gerenciador de Senhas**
+Aplicação desenvolvida para guardar credenciais, cadastros de senhas.
 🔹 **Calculadora IA Tattoo Smart Ink**
 Aplicação web com foco em experiência do usuário, estruturação lógica e organização de código.
 
