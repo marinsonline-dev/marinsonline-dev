@@ -1,82 +1,201 @@
 # 👋 Olá, eu sou Marcelo Marins!
 
-🚀 Profissional em transição para Engenharia de Dados, apaixonado por tecnologia, estruturação de sistemas e construção de soluções inteligentes.
+## 💻 Desenvolvedor Full Stack | Java | Python | JavaScript | Firebase | Android
 
-Atualmente estou focado em desenvolver projetos sólidos na área de **Engenharia de Dados**, aplicando boas práticas de arquitetura, organização e automação de pipelines.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor Full Stack apaixonado por criar soluções que resolvem problemas reais.
 
----
+Atualmente desenvolvo aplicações **Web** e **Mobile**, participando de todas as etapas do desenvolvimento, desde o levantamento de requisitos até o deploy e publicação das aplicações.
 
-## 🎯 Minha Jornada
+Tenho experiência prática adquirida através de projetos próprios, envolvendo arquitetura de software, bancos de dados, desenvolvimento Front-end e Back-end, autenticação de usuários, integração com APIs e computação em nuvem.
 
-Venho construindo experiência prática através de projetos próprios, onde aplico:
-
-- Construção de pipelines de dados (ETL)
-- Integração com APIs
-- Processamento e transformação de dados
-- Estruturação de bancos de dados
-- Automação de tarefas
-- Desenvolvimento de APIs
-- Deploy de aplicações
-
-Meu foco é evoluir constantemente, construindo soluções cada vez mais escaláveis e bem arquitetadas.
+🎯 **Meu objetivo é iniciar minha carreira como Desenvolvedor Full Stack Júnior**, contribuindo com soluções modernas, escaláveis e de qualidade, enquanto continuo evoluindo tecnicamente.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+# 🚀 Tecnologias e Ferramentas
 
-### 👨‍💻 Linguagens
-Python | SQL | JavaScript
+## 👨‍💻 Linguagens
 
-### ☁️ Cloud & Dados
-AWS (S3, Lambda, EC2)  
-BigQuery  
-Conceitos de Data Lake e Data Warehouse  
-
-### 🔄 Engenharia de Dados
-ETL | Modelagem de Dados | Pipelines | Integração com APIs | Automação
-
-### 🧰 Ferramentas
-Git | GitHub | Power BI | Google Sheets API | Vite | React
+- Java
+- Python
+- JavaScript
+- SQL
+- HTML5
+- CSS3
 
 ---
 
-## 📊 Projetos em Destaque
+## 📱 Desenvolvimento
 
-🔹 **Pipeline de Dados com API Financeira**
-Projeto focado em ingestão, tratamento e modelagem de dados financeiros utilizando arquitetura escalável.
-
-🔹 **Gerenciador de Senhas**
-Aplicação desenvolvida para guardar credenciais, cadastros de senhas.
-🔹 **Calculadora IA Tattoo Smart Ink**
-Aplicação web com foco em experiência do usuário, estruturação lógica e organização de código.
-
-🔹 **Projetos de Automação**
-Integrações com APIs, organização de dados e geração de relatórios automatizados.
+- Android Studio
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Hosting
+- APIs REST
+- CRUD
+- Desenvolvimento Web
+- Desenvolvimento Mobile
 
 ---
 
-## 📈 Atualmente Estudando
+## 🗄️ Banco de Dados
 
-- Arquitetura de Dados em Cloud
-- Orquestração de pipelines
-- Engenharia de Software aplicada a dados
-- Boas práticas de versionamento e deploy
-
----
-
-## 🤖 Além do Código
-
-⛺ Gosto de acampar e prática de esportes  
-📚 Sempre estudando algo novo  
-🖌️ Apaixonado por artes 
-💪 Buscando evolução constante — técnica e pessoal  
+- MySQL
+- SQLite
+- Firebase Firestore
+- Modelagem de Dados
+- Normalização
 
 ---
 
-## 🌐 Vamos nos conectar?
+## 🛠️ Ferramentas
 
-- [LinkedIn] (https://www.linkedin.com/in/marcelo-marins-94925a369/)
-- [Portfólio] (https://marinsonline-dev.github.io/Portif-lio-Marcelo-Marins/)
-- [Email] (marinsonline@gmail.com)
+- Git
+- GitHub
+- VS Code
+- Android Studio
+- DBeaver
+- Power BI
+- Google Play Console
+- Firebase
 
-📫 Fique à vontade para explorar meus projetos ou trocar ideias sobre tecnologia, dados e inovação!
+---
+
+# 📂 Projetos em Destaque
+
+## 🔐 Gerenciador de Senhas
+
+Aplicação Full Stack desenvolvida para armazenar e organizar credenciais de forma segura, permitindo o gerenciamento de senhas de e-mails, bancos, sites e outros serviços.
+
+### Funcionalidades
+
+- 🔑 Autenticação de usuários
+- 🔒 Firebase Authentication
+- ☁️ Cloud Firestore
+- 📝 CRUD completo
+- 🔎 Pesquisa de credenciais
+- 📂 Organização por categorias
+- 👥 Controle de permissões
+- 📱 Interface responsiva
+- 🛡️ Regras de segurança no Firestore
+
+**Tecnologias**
+
+`JavaScript` • `HTML5` • `CSS3` • `Firebase` • `Firestore` • `Git` • `GitHub`
+
+---
+
+## 📱 Calculadora de Tatuagem
+
+Aplicativo Android publicado na **Google Play Console**, desenvolvido para auxiliar tatuadores na precificação de tatuagens.
+
+### Funcionalidades
+
+- Cálculo por tempo
+- Valor mínimo
+- Horas adicionais
+- Catálogo de estilos
+- Interface intuitiva
+- Funciona offline
+
+**Tecnologias**
+
+`Java` • `Android Studio` • `Firebase` • `SQLite` • `XML`
+
+---
+
+## 💉 Smart Ink
+
+Sistema Web + Mobile desenvolvido para gerenciamento completo de estúdios de tatuagem.
+
+### Funcionalidades
+
+- Cadastro de clientes
+- Agenda
+- Financeiro
+- Dashboard
+- Banco de Dados
+- Autenticação de usuários
+
+**Tecnologias**
+
+`JavaScript` • `HTML5` • `CSS3` • `Firebase` • `MySQL`
+
+---
+
+## 📊 Pipeline Financeiro
+
+Projeto de Engenharia de Dados desenvolvido para ingestão, transformação e análise de dados financeiros.
+
+### Tecnologias
+
+`Python` • `Pandas` • `PostgreSQL` • `AWS S3`
+
+---
+
+# 🎓 Atualmente Estudando
+
+- Java
+- Desenvolvimento Full Stack
+- Arquitetura de Software
+- Engenharia de Software
+- APIs REST
+- Firebase
+- Cloud Computing
+- Clean Code
+- Boas práticas de desenvolvimento
+- Estruturas de Dados
+
+---
+
+# 🤖 Além do Código
+
+Além do desenvolvimento de software, acredito que aprendizado contínuo, criatividade e equilíbrio são fundamentais para construir soluções cada vez melhores.
+
+- ⛺ Apaixonado por acampamentos e contato com a natureza
+- 🏃 Praticante de esportes e atividades ao ar livre
+- 📚 Sempre estudando novas tecnologias e boas práticas de desenvolvimento
+- 🖌️ Apaixonado por arte e criatividade
+- 💪 Buscando evolução constante — técnica, profissional e pessoal
+
+---
+
+# 🌎 Vamos nos conectar?
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/marcelo-marins-94925a369/
+
+🌐 **Portfólio**
+
+https://marinsonline-dev.github.io/Portif-lio-Marcelo-Marins/
+
+📧 **E-mail**
+
+marinsonline@gmail.com
+
+---
+
+# 📈 GitHub Stats
+
+> Adicione estes cards ao final do README.
+
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marinsonline-dev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinsonline-dev&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=marinsonline-dev&theme=tokyonight)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=marinsonline-dev&theme=tokyonight&margin-w=15)
+```
+
+---
+
+# 💡 Obrigado pela visita!
+
+Seja muito bem-vindo ao meu GitHub!
+
+Aqui você encontrará projetos desenvolvidos com foco em aprendizado, boas práticas de desenvolvimento e resolução de problemas reais.
+
+Fique à vontade para explorar os repositórios, contribuir ou entrar em contato. Estou sempre aberto a trocar experiências, aprender novas tecnologias e colaborar em projetos inovadores.
